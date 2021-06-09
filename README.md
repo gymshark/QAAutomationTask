@@ -25,4 +25,4 @@ https://eu.gymshark.com/	Europe
 This is a sub-set of our 15 stores so please ensure that as you design your tests you are considering how you would approach this test across the 15 stores and across different viewports e.g. Desktop, tablet and mobile.
 Please create a slide or documentation to explain how you would approach your test you created for the task above across multiple browsers and devices. 
 Any questions on this task, please let me know. 
-![image](https://user-images.githubusercontent.com/75615218/121364079-5f08f300-c92f-11eb-910f-962a43e5bb1f.png)
+
