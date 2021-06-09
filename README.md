@@ -25,6 +25,9 @@ The task is for you to create an automation test on our website across 5 of our 
 | https://nl.gymshark.com/  | The Netherlands |
 | https://eu.gymshark.com/  | Europe          |
 
+
 This is a sub-set of our 15 stores so please ensure that as you design your tests you are considering how you would approach this test across the 15 stores and across different viewports e.g. Desktop, tablet and mobile.
+
 Please create a slide or documentation to explain how you would approach your test you created for the task above across multiple browsers and devices. 
+
 Any questions on this task, please let me know. 
